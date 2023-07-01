@@ -1,9 +1,5 @@
-torch
-transformers
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-sklearn
-tqdm
+numpy==1.25.0
+pandas==1.5.3
+scikit_learn==1.2.2
+torch==2.0.1
+transformers==4.28.1
