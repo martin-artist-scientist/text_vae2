@@ -1,2 +1,9 @@
 
 test.csv
+
+*.py[cod]
+__pycache__
+*.vectorized_metadata
+.noteablekeep
+*.vectorized_content
+.tmp/
